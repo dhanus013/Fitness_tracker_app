@@ -1,6 +1,3 @@
-Below is the **proper GitHub README markdown code** so everything aligns correctly on GitHub (headings, lists, code blocks, etc.). You can **paste this directly into `README.md`**.
-
-```markdown
 # 🏋️ Fitness Tracker Data Analysis
 
 ## 📊 Project Overview
@@ -148,15 +145,4 @@ jupyter notebook
 
 Aspiring **Data Analyst / AI & Data Science Engineer** interested in data analytics, machine learning, and real-world dataset exploration.
 
-```
-
-✅ This version will:
-- Align properly on **GitHub**
-- Show **clean headings**
-- Show **code blocks correctly**
-- Look **professional for recruiters**
-
----
-
-If you want, I can also give you a **🔥 more professional GitHub README with badges, graphs, and shields (looks like a real data science project)**.
 ```
